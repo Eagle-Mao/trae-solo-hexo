@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/Eagle-Mao/trae-solo-hexo.git
-  branch: main
+  branch: gh-pages
