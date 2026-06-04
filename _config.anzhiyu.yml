@@ -1,0 +1,29 @@
+# 安知鱼主题配置
+# AnZhiYu Theme Configuration
+
+# 菜单配置
+menu:
+  文章:
+    隧道: /archives/ || anzhiyu-icon-box-archive
+    分类: /categories/ || anzhiyu-icon-shapes
+    标签: /tags/ || anzhiyu-icon-tags
+  关于:
+    关于本人: /about/ || anzhiyu-icon-paper-plane
+
+# 社交图标设置
+social:
+  Github: https://github.com/Eagle-Mao || anzhiyu-icon-github
+  E-mail: mailto:Eagle-Mao@email.com || anzhiyu-icon-envelope
+
+# 作者卡片
+author_status:
+  enable: false
+
+# 首页标语打字效果
+# 根据实际情况修改
+index_blog_info:
+  enable: true
+  text:
+    - 你好
+    - 欢迎来到我的博客
+    - 这里记录着我的学习历程
